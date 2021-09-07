@@ -1,4 +1,4 @@
-## _Bookmark Manager_ landig page
+## _Bookmark Manager_ landing page
 
 Bookmark manager single page built with _reactjs_
 
