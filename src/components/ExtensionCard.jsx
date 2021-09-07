@@ -1,5 +1,5 @@
 import React from "react";
-import "./ExtensionCard.scss";
+import "../stylesheets/ExtensionCard.scss";
 
 const ExtensionCard = () => {
   return (

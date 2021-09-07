@@ -1,0 +1,6 @@
+@import "mixins";
+nav {
+  @include flx-row;
+  height: 3rem;
+  border-bottom: solid slateblue 1px;
+}

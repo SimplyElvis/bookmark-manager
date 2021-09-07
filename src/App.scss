@@ -1,4 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400;500&display=swap");
+@import "./stylesheets/variables";
+@import "./stylesheets/mixins";
 
 * {
   margin: 0;
@@ -8,5 +10,7 @@
 
 body {
   font-size: 16px;
-  font-family: "Rubik", sans-serif;
+  font-family: $font-family;
+  font-size: 16px;
+  background-color: lighten($grayish-blue, 50%);
 }
